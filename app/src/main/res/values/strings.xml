@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exchange Rate</string>
+    <string name="SGD_CNY_rate">CNY to USD : 6.80\nSGD to CNY : 4.96\nUSD to SGD : 0.72\n</string>
+    <string name="slogan">Click below rate to exchange</string>
+    <string name="sgd">SGD</string>
+    <string name="cny">CNY</string>
+    <string name="usd">USD</string>
+    <string name="exchange">Exchange</string>
+    <string name="reset">Reset</string>
+    <string name="hkd">HKD</string>
+    <string name="gbp">GBP</string>
+</resources>
